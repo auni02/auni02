@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Auni Haziqah</h1>
+<h3 align="center">IT Student </h3>
 
-<!--
-**auni02/auni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/auni02">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Portfolio
+🔗 https://your-portfolio-link.com  
+
+### 👩‍💻 About Me
+- 🎓 IT Student  
+- 💡 Interested in Web & Mobile Development  
+- 📌 Final Year Project: **Live Stream Pet Donation App**  
+
+### 📫 Reach Me
+- ✉️ Email: haziqahauni96@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/auni-haziqah-046380253   
+
+---
+
+### 🌍 Socials
+<p align="left">
+<a href="https://linkedin.com/in/auni-haziqah-046380253" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/auni02" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+### 🛠 Skills & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,firebase,flutter,laravel" />
+</p>
+
+---
+
+### 📌 Final Year Projects
+- 🔴 **Live Stream Pet Donation App** – an Iot and Real-time streaming & donation platform  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=auni02&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" />
+</p>
