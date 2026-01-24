@@ -30,6 +30,12 @@
 <a href="https://github.com/auni02" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+<a href="https://www.instagram.com/brouniey_?igsh=MWhpdTJlZ2hjNXYxdQ==" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="https://www.tiktok.com/@letherbee?is_from_webapp=1&sender_device=pc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tiktok" />
+</a>
 </p>
 
 ---
@@ -45,12 +51,3 @@
 - 🔴 **Live Stream Pet Donation App** – an Iot and Real-time streaming & donation platform  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auni02&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" />
-</p>
