@@ -9,7 +9,6 @@
 ---
 
 ### 🌐 Portfolio
-🔗 https://your-portfolio-link.com  
 
 ### 👩‍💻 About Me
 - 🎓 IT Student  
