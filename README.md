@@ -2,7 +2,7 @@
 <h3 align="center">IT Student </h3>
 
 <p align="center">
-  <a href="https://github.com/auni02">
+  <a href="">
   </a>
 </p>
 
