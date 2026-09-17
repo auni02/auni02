@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 - 🎓 IT Student  
-- 💡 Interested in Web & Mobile Development  
+- 💡 Interested in Software Development  
 - 📌 Final Year Project: **Live Stream Pet Donation App**  
 
 ### 📫 Reach Me
