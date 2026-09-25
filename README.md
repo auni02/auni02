@@ -7,8 +7,6 @@
 
 ---
 
-### 🌐 Portfolio
-🔗 Live Portfolio: https://auni02.github.io/portfolio/
 
 ### 👩‍💻 About Me
 - 🎓 IT Student  
